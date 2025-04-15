@@ -1,6 +1,6 @@
-baseURL = "https://blog.pluggedspace.org/"
+baseURL = "https://blog.border.cash/"
 languageCode = "en-us"
-title = "Pluggedspace Blog"
+title = "BorderCash Blog"
 theme = "PaperMod"
 
 
@@ -10,10 +10,10 @@ theme = "PaperMod"
 
   favicon = "pluggedspace.png"
 
-  title = "Pluggedspace Blog"
+  title = "BorderCash Blog"
   description = "Your blog description here"
-  author = "Pluggedspace"
-  keywords = ["technology", "fintech", "automation"]
+  author = "BorderCash"
+  keywords = ["fintech", "tokenized stocks", "cross-border"]
   images = ["your-featured-image-url.jpg"]
   disableSpecial1stPost = true
   disableScrollToTop = false
@@ -33,7 +33,7 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "Twitter"
-    url = "https://twitter.com/pluggedspace_io"
+    url = "https://twitter.com/thebordercash"
 
   [[params.socialIcons]]
     name = "GitHub"
@@ -41,11 +41,11 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "Instagram"
-    url = "https://instagram.com/pluggedspace"
+    url = "https://instagram.com/border.cash"
 
   [[params.socialIcons]]
     name = "LinkedIn"
-    url = "https://linkedin.com/company/pluggedspace"
+    url = "https://linkedin.com/company/bordercash"
 
 
 
@@ -62,7 +62,7 @@ theme = "PaperMod"
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "https://pluggedspace.org"
+  url = "https://border.cash"
   weight = 1
 
 [[menu.main]]
@@ -74,7 +74,7 @@ theme = "PaperMod"
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
-  url = "https://blog.pluggedspace.org"
+  url = "https://blog.border.cash"
   weight = 3
 
  [[menu.main]]
