@@ -69,8 +69,8 @@ theme = "PaperMod"
 
 
 [[menu.main]]
-  identifier = "login"
-  name = "Login"
+  identifier = "app"
+  name = "App"
   url = "https://app.border.cash"
   weight = 3
 
