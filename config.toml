@@ -1,6 +1,6 @@
-baseURL = "https://blog.pluggedspace.org/"
+baseURL = "https://blog.border.cash/"
 languageCode = "en-us"
-title = "Pluggedspace Blog"
+title = "BorderCash Blog"
 theme = "PaperMod"
 
 
@@ -34,7 +34,7 @@ theme = "PaperMod"
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "https://pluggedspace.org"
+  url = "https://border.cash"
   weight = 1
 
 [[menu.main]]
