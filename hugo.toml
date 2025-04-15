@@ -29,15 +29,11 @@ theme = "PaperMod"
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
-    Content = "Sockets and Plugs, Links, about..."
+    Content = "Money, money, Money..."
 
   [[params.socialIcons]]
     name = "Twitter"
     url = "https://twitter.com/thebordercash"
-
-  [[params.socialIcons]]
-    name = "GitHub"
-    url = "https://github.com/pluggedspace"
 
   [[params.socialIcons]]
     name = "Instagram"
@@ -66,34 +62,23 @@ theme = "PaperMod"
   weight = 1
 
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "https://pluggedspace.org/about"
-  weight = 2
-
-[[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "https://blog.border.cash"
-  weight = 3
+  weight = 2
 
- [[menu.main]]
-  identifier = "services"
-  name = "Services"
-  url = "https://pluggedspace.org/services"
-  weight = 4
 
 [[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "https://pluggedspace.org/projects"
-  weight = 5
+  identifier = "login"
+  name = "Login"
+  url = "https://app.border.cash"
+  weight = 3
 
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
-  url = "https://pluggedspace.org/contact/"
-  weight = 6
+  url = "https://border.cash/contact/"
+  weight = 4
 
 
 
