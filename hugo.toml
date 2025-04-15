@@ -25,7 +25,7 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowWordCount = true
 
-  googleAnalyticsID = "G-HNJ4XDXZ6C"
+  googleAnalyticsID = "G-XLQH2ZB625"
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
