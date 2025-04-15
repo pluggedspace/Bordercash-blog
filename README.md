@@ -1,2 +1,2 @@
-# blog.pluggedspace.org
+# blog.border.cash
  
