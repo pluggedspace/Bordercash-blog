@@ -82,4 +82,3 @@ BorderCash is designed for:
 
 If you're looking for a **secure, fast, and affordable way to send money internationally**, BorderCash is your best option. With advanced security, transparent pricing, and wide global reach, we make sure every transfer is smooth, safe, and efficient. **Start using BorderCash today**—and experience the future of international payments.
 
----
