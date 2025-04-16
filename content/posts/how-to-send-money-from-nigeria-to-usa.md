@@ -1,7 +1,7 @@
 +++
 title = "How to Send Money from Nigeria to the USA: A Complete Guide"
 description = "Discover the best methods to send money from Nigeria to the USA securely, affordably, and quickly. Learn about fees, options, and tips for safe international remittance."
-date = 2025-04-16 time = "14:40:00
+date = "2025-04-16T14:40:00Z"
 keywords = [
   "Send money to the USA",
   "Money transfer from Nigeria",
