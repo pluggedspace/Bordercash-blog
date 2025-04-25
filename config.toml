@@ -6,7 +6,8 @@ theme = "PaperMod"
 
 [params]
   ShowSearch = true
-  defaultTheme = "light" 
+  defaultTheme = "light"
+  favicon = "favicon.ico"
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
