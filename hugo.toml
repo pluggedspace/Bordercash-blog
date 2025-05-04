@@ -9,7 +9,7 @@ theme = "PaperMod"
   defaultTheme = "light" 
 
   [params.assets]
-  favicon = "favicon.ico"
+  favicon = "images/favicon.ico"
 
   title = "BorderCash Blog"
   description = "Your blog description here"
