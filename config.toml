@@ -7,6 +7,8 @@ theme = "PaperMod"
 [params]
   ShowSearch = true
   defaultTheme = "light"
+
+  [params.assets]
   favicon = "favicon.ico"
 
   [params.homeInfoParams]
