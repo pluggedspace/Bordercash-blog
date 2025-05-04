@@ -8,6 +8,7 @@ theme = "PaperMod"
   ShowSearch = true
   defaultTheme = "light" 
 
+  [params.assets]
   favicon = "favicon.ico"
 
   title = "BorderCash Blog"
