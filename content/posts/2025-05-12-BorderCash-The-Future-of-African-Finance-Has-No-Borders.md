@@ -6,7 +6,7 @@ description = "Discover how BorderCash is transforming finance in Africa by remo
 tags = ["BorderCash", "Fintech", "Africa", "Crypto", "Finance"]
 categories = ["Finance", "Tech"]
 author = "Pluggedspace"
-featured_image = "images/african-currency.jpg"
+image = "images/african-currency.jpg"
 +++ 
 
 [[sections]]
