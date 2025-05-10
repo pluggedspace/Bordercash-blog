@@ -1,5 +1,5 @@
 +++
-title = "BorderCash: The Future of African Finance Has No Borders"
+title = "Border Cash: The Future of African Finance Has No Borders"
 date = 2025-05-12T00:00:00Z
 draft = false
 description = "Discover how BorderCash is transforming finance in Africa by removing barriers with multi-currency wallets, investment tools, and crypto integrations."
@@ -10,7 +10,7 @@ image = "images/african-currency.jpg"
 +++ 
 
 [[sections]]
-title = "The Problem BorderCash Solves"
+title = "The Problem Border Cash Solves"
 content = """
 Africa’s financial system is filled with friction points: 
 
@@ -20,15 +20,15 @@ Africa’s financial system is filled with friction points:
 - Many Africans remain unbanked or underbanked  
 - Crypto adoption grows—but real-world utility remains limited  
 
-BorderCash solves these challenges by offering an all-in-one wallet that bridges local and global finance.
+Border Cash solves these challenges by offering an all-in-one wallet that bridges local and global finance.
 """ 
 
 [[sections]]
-title = "What Is BorderCash?"
+title = "What Is Border Cash?"
 content = """
-BorderCash is a multi-currency digital wallet with built-in investment tools, cross-border payments, crypto support, and utility services—tailored for African users. 
+Border Cash is a multi-currency digital wallet with built-in investment tools, cross-border payments, crypto support, and utility services—tailored for African users. 
 
-Whether you're a remote worker getting paid in USD, a trader paying international suppliers, or a student receiving funds from home, BorderCash gives you: 
+Whether you're a remote worker getting paid in USD, a trader paying international suppliers, or a student receiving funds from home, Border Cash gives you: 
 
 - A secure, mobile-first wallet  
 - Access to USD investments  
@@ -41,7 +41,7 @@ All in one app. All on your terms.
 [[sections]]
 title = "The Vision Behind BorderCash"
 content = """
-BorderCash was created with a bold goal: to democratize access to modern finance for Africans, regardless of location or status. 
+Border Cash was created with a bold goal: to democratize access to modern finance for Africans, regardless of location or status. 
 
 Our vision is to: 
 
@@ -53,7 +53,7 @@ We believe the next financial revolution will come from the Global South, and Bo
 """ 
 
 [[sections]]
-title = "How BorderCash Works (The Stack)"
+title = "How Border Cash Works (The Stack)"
 content = """
 ### 1. Multi-Currency Wallet
 - Hold, convert, and send funds in multiple currencies (e.g., Naira, USD, USDC)  
@@ -113,7 +113,7 @@ content = """
 """ 
 
 [[sections]]
-title = "What Makes BorderCash Different?"
+title = "What Makes Border Cash Different?"
 content = """
 ### Built for Africa First
 - Local problems, global solutions  
@@ -138,7 +138,7 @@ content = """
 """ 
 
 [[sections]]
-title = "Who BorderCash Is For"
+title = "Who Border Cash Is For"
 content = """
 ### Freelancers and Remote Workers
 - Get paid globally  
