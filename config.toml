@@ -2,7 +2,7 @@ baseURL = "https://blog.border.cash/"
 languageCode = "en-us"
 title = "BorderCash Blog"
 theme = "PaperMod"
-
+googleAnalytics = "G-VTYR8YKNN1"
 
 [params]
   ShowSearch = true
@@ -11,9 +11,7 @@ theme = "PaperMod"
   [params.assets]
   favicon = "images/favicon.ico"
 
-  googleAnalyticsID = "G-VTYR8YKNN1"
-
-
+  
   [params.homeInfoParams]
     Title = "Hi there 👋"
     Content = "Money and Plugs, Links, about..."
