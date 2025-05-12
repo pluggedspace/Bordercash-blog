@@ -1,6 +1,6 @@
 +++
 title = "Border Cash: The Future of African Finance Has No Borders"
-date = 2023-10-25T09:00:00Z
+date = 2025-05-12T09:00:00Z
 draft = false
 description = "Discover how BorderCash is transforming finance in Africa by removing barriers with multi-currency wallets, investment tools, and crypto integrations."
 tags = ["BorderCash", "Fintech", "Africa", "Crypto", "Finance"]
