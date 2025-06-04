@@ -6,8 +6,10 @@ tags = ["BorderCash", "Digital Finance", "Africa", "Traditional Banking", "Finte
 categories = ["Finance", "Technology", "Africa"]
 draft = false
 description = "How BorderCash is reshaping Africa’s financial system with inclusive, digital-first solutions compared to traditional banks."
-image = ["images/bordercash-vs-traditional-banks.png"]
-[cover] image = "images/bordercash-vs-traditional-banks.png"
+image = "images/bordercash-vs-traditional-banks.png"
+
+[cover]
+image = "images/bordercash-vs-traditional-banks.png"
 +++
 
 
