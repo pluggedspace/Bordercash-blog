@@ -2,13 +2,24 @@
 title = "Border Cash: The Future of African Finance Has No Borders"
 date = 2025-05-11T09:00:00Z
 draft = false
+
+# SEO
 description = "Discover how BorderCash is transforming finance in Africa by removing barriers with multi-currency wallets, investment tools, and crypto integrations."
+slug = "bordercash-africa-finance"
+
+# Metadata
 tags = ["BorderCash", "Fintech", "Africa", "Crypto", "Finance"]
 categories = ["Finance", "Tech"]
 author = "Pluggedspace"
-image = ["images/african-currency.jpg"
-alt = "The Future of African Finance"]
-[cover] image = "images/african-currency.jpg"
+
+# Featured image for list and meta previews
+image = "images/african-currency.jpg"
+
+# For PaperMod cover image
+[cover]
+image = "images/african-currency.jpg"
+alt = "The Future of African Finance"
+relative = true
 +++
 
 The Problem Border Cash Solves
