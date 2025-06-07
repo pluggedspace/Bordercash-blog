@@ -1,5 +1,6 @@
 +++
 title = "BorderCash: The Future of Cross-Border Payments and Tokenized Investments"
+author = "Marcelinus Apakhade" 
 meta_description = "Discover how BorderCash is transforming borderless finance with low-fee international transfers, tokenized investments, crypto on-ramps, and advanced financial tools."
 date = 2025-05-02T00:00:00Z
 tags = ["cross-border payments", "fintech", "crypto", "tokenized investments", "digital wallet"]
