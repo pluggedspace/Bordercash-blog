@@ -1,5 +1,6 @@
 +++
 title = "Introducing BorderCash: A Next-Generation Digital Wallet"
+author = "Marcelinus Apakhade" 
 description = "Discover how BorderCash is transforming digital finance with low fees, an all-in-one platform, and a commitment to financial inclusion."
 keywords = ["BorderCash", "Digital Wallet", "Financial Inclusion", "Low Fees"]
 date = 2025-04-16
