@@ -10,7 +10,7 @@ slug = "bordercash-africa-finance"
 # Metadata
 tags = ["BorderCash", "Fintech", "Africa", "Crypto", "Finance"]
 categories = ["Finance", "Tech"]
-author = "Pluggedspace"
+author = "Marcelinus Apakhade"
 
 # Featured image for list and meta previews
 image = "images/african-currency.jpg"
