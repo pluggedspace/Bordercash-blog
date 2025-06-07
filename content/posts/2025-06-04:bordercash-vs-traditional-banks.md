@@ -1,7 +1,7 @@
 +++
 title = "BorderCash vs Traditional Banks: Transforming Africa's Financial Landscape"
 date = 2025-06-04T09:00:00Z
-author = "Marcel"
+author = "Marcelinus Apakhade"
 tags = ["BorderCash", "Digital Finance", "Africa", "Traditional Banking", "Fintech", "Cryptocurrency", "Financial Inclusion"]
 categories = ["Finance", "Technology", "Africa"]
 draft = false
