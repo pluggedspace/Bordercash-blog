@@ -3,7 +3,7 @@ title = "How BorderCash Simplifies International Transfers with Stellar-Powered 
 date = 2025-04-15
 description = "Explore how BorderCash enables seamless international transfers using fiat and crypto ramps on the Stellar network."
 keywords = ["bank account", "direct deposit", "international transfers", "Stellar", "fiat ramps", "crypto ramps"]
-author = "BorderCash Team"
+author = "Marcelinus Apakhade"
 +++
 
 ## How BorderCash Simplifies International Transfers with Stellar-Powered Ramps
