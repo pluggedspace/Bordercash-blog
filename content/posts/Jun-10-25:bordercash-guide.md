@@ -3,8 +3,12 @@ title = "A Complete Guide to Using BorderCash: Your Step-by-Step Financial Solut
 date = 2025-06-10
 description = "Learn how to use BorderCash for cross-border payments, investing, crypto transactions, and online shopping with this comprehensive guide."
 tags = ["BorderCash", "Fintech", "Guide", "Cross-border", "Crypto", "Investing", "Payments"]
-cover_image = "images/Bordercash-cover.png"
-image = "images/Bordercash-cover.png"
+
+image = "images/bordercash-cover.png"
+
+[cover]
+image = "images/bordercash-cover.png"
+
 author = "Marcelinus Apakhade"
 +++
 
