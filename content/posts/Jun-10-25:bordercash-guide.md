@@ -4,7 +4,7 @@ date = 2025-06-10
 description = "Learn how to use BorderCash for cross-border payments, investing, crypto transactions, and online shopping with this comprehensive guide."
 tags = ["BorderCash", "Fintech", "Guide", "Cross-border", "Crypto", "Investing", "Payments"]
 cover_image = "images/bordercash-cover.jpeg"
-author = "Pluggedspace"
+author = "Marcelinus Apakhade"
 +++
 
 In today’s fast-paced, globalized world, managing finances can be a challenge. With traditional banking often slow, expensive, and cumbersome, it’s no surprise that many are turning to innovative solutions like **BorderCash**. BorderCash simplifies cross-border payments, investments, shopping, and crypto transactions, all in one seamless platform.
