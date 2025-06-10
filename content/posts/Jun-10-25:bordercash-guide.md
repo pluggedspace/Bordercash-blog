@@ -143,4 +143,4 @@ Use "Forgot Password" or contact 24/7 support.
 **BorderCash** is your revolutionary gateway to smarter, more efficient financial management. From investing to paying bills or shopping globally, it's your complete solution.
 
 **Ready to take control?**  
-[Sign up now](#) and start managing your money smarter.
+[Sign up now](https://app.border.cash) and start managing your money smarter.
