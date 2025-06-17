@@ -2,7 +2,7 @@ baseURL = "https://blog.border.cash/"
 languageCode = "en-us"
 title = "BorderCash Blog"
 theme = "PaperMod"
-googleAnalytics = "G-VTYR8YKNN1"
+googleAnalytics = "G-4EVNSKVCMW"
 
 [params]
   ShowSearch = true
