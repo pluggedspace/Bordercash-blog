@@ -9,6 +9,7 @@ description = "Learn how to start investing with BorderCash. This beginner-frien
 keywords = ["investing in Africa", "BorderCash", "digital finance", "stablecoins", "beginner investing"]
 slug = "how-to-invest-bordercash"
 image = "/images/How-to-invest-bordercash.png"
+[cover] image = "images/How-to-invest-bordercash.png"
 +++
 
 
