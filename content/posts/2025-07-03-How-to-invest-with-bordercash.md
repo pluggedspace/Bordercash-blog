@@ -1,6 +1,6 @@
 +++
 title = "How to Invest with BorderCash: A Simple Guide for Beginners in Africa"
-date = 2025-07-03T09:00:00Z
+date = 2025-07-03T06:00:00Z
 draft = false
 tags = ["investing", "BorderCash", "Africa", "finance", "crypto"]
 categories = ["Finance", "Guides"]
