@@ -14,7 +14,6 @@ image = "/images/How-to-invest-bordercash.png"
 image = "/images/How-to-invest-bordercash.png"
 +++
 
-![Cover: How to Invest with BorderCash](/images/How-to-invest-bordercash.png)
 
 ### 1. Introduction
 
