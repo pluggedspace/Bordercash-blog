@@ -4,11 +4,11 @@ date = 2025-07-03T06:00:00Z
 draft = false
 tags = ["investing", "BorderCash", "Africa", "finance", "crypto"]
 categories = ["Finance", "Guides"]
-author = "Cesar"
+author = "Marcelinus Apakhade"
 description = "Learn how to start investing with BorderCash. This beginner-friendly guide walks you through the essentials of smart investing and how to grow your money using Africa’s fast-rising digital finance platform."
 keywords = ["investing in Africa", "BorderCash", "digital finance", "stablecoins", "beginner investing"]
 slug = "how-to-invest-bordercash"
-image = "/images/how-to-invest-bordercash.png"
+image = "/images/How-to-invest-bordercash.png"
 +++
 
 
