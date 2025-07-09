@@ -4,7 +4,7 @@ description = "Stop losing money to hidden fees and bad exchange rates. Discover
 date = 2025-08-04
 slug = "send-money-nigeria-fx"
 tags = ["remittance", "fx", "bordercash", "stablecoins", "usdc", "nigeria"]
-featured_image = "bordercash-save-more-real-rates.jpg"
+featured_image = "bordercash-save-more-real-rates.png"
 author = "Marcelinus Apakhade"
 +++
 
