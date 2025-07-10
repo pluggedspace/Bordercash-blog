@@ -9,6 +9,8 @@ author = "Marcelinus Apakhade"
 image = "images/usd-vs-ngn-cover.png"
 slug = "usd-vs-ngn-saving-2025"
 toc = true
+[cover]
+image = "/images/usd-vs-ngn-cover.png"
 +++
 
 ## Introduction
